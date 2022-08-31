@@ -1,6 +1,6 @@
 <div align="center">
   <h3>
-    <a href="https://vetri-suriya.web.app/clone-projects/starbucks-rewards/">Preview</a> |
+    <a href="https://rvs-starbucks-rewards-clone.vercel.app/">Preview</a> |
     <a href="https://codepen.io/vetrisuriya/pen/XWeBYba">Codepen</a> |
     <a href="https://github.com/vetrisuriya/starbucks-rewards-clone">Github</a>
   </h3>
